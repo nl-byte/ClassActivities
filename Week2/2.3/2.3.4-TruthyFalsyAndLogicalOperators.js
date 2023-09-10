@@ -10,8 +10,8 @@ console.log(false || !false);//true
 // ? what do you expect each line to print?
 console.log(undefined || null); //null
 console.log(!``);//undefined
-console.log(!(1 && "false"));//
-console.log(NaN || !"true");
+console.log(!(1 && "false"));//false
+console.log(NaN || !"true");//false
 
 // Set the age variable below equal to a number,
 // then use conditional operators to construct an expression that returns...
