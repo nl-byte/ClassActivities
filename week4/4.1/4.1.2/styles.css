@@ -1,0 +1,22 @@
+h1 { 
+    font: Arial;
+
+
+}
+p {
+
+}
+
+img {
+
+    width: 150px;
+    height: 200px;
+    border-radius: 100%
+    
+}
+
+a:hover {
+    color: pink;
+}
+
+background-color
